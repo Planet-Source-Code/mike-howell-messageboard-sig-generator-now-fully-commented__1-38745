@@ -1,0 +1,4 @@
+<!-- This code is used to refresh a page. In place of the 3 you enter the amount of second you want the page to refresh. In the example below the page refreshes every 20 seconds. Then in place of the "Enter URL" you enter your board address. -->
+
+<META HTTP-EQUIV="Refresh" CONTENT="20;URL=Enter URL Here">
+

@@ -1,0 +1,5 @@
+<!-- Simply paste this code into the head section of your board or webpage, the user will then not be allowed to right click on anything. -->
+
+<SCRIPT>
+function click() {if (event.button==2) { alert('Right Click has been Disabled') } } document.onmousedown=click
+</SCRIPT>

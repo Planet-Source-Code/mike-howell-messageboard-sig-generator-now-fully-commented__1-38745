@@ -1,0 +1,5 @@
+<!-- Paste this in the body section of your site or board, make sure you enter the URL of your board, and the name of your board in the sections provided -->
+
+<A href="javascript:window.external.AddFavorite ('  *Enter Your URL Here* ',' *Enter Your Board/Page Name Here* ')"
+onmouseout="window.status='';return true"
+onmouseover="window.status='Add Bookmark';return true">Add this page to your bookmarks</a>

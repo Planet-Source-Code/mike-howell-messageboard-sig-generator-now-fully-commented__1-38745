@@ -1,0 +1,9 @@
+<!-- Enter this into the head section of your board or page. Enter the destination URL as shown below, make sure the *'s are removed. You Can replace the 1000 with any desired time. 1000 = 1 Second, eg 5000 = 5 Seconds. -->
+
+
+<SCRIPT LANGUAGE=JAVASCRIPT>
+
+setTimeout("top.location.href = ' *Enter Target URL Here* '",1000);
+
+</SCRIPT>
+
